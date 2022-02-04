@@ -28,14 +28,14 @@ a[target="_blank"]{
   background-color:white;
   
 }
-img{
-  width: 40%
-  margin: 30px
+body {
+  background-image:url(https://solarsystem.nasa.gov/internal_resources/4319/);
+  background-repeat:no-repeat;
+  
 }
-img[alt]{
-  border:2px white dotted;
-}
-body{background-image:url('https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg');}
-background-repeat:no-repeat
-background-size:cover
+
+Nav a {
+display:inline-block;
+padding:15px;
+Margin:10px;
 }
